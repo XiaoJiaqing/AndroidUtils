@@ -3,6 +3,7 @@
 
 ### Download
 
+
 打开项目根目录下的build.gradle，添加以下内容：
 
 	allprojects {
@@ -18,6 +19,6 @@
 
 	dependencies {
     	...
-    	compile 'com.github.XiaoJiaqing:XCanvasView:v0.1.1'
+    	compile 'com.github.XiaoJiaqing:AndroidUtils:v0.1'
 	}
 	
